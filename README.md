@@ -9,7 +9,7 @@ A simple console-based Java game where the user attempts to guess a randomly gen
 - Feedback if the guess is too high or too low
 - Attempt counter
 
-## Example
+## Example Gameplay
 
 Welcome to the Number Guessing Game!
 Guess a number between 1 and 100.
