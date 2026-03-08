@@ -11,8 +11,8 @@ A simple console-based Java game where the user attempts to guess a randomly gen
 
 ## Example Gameplay
 
-Welcome to the Number Guessing Game!
-Guess a number between 1 and 100.
+```
+Welcome to the Number Guessing Game! Guess a number between 1 and 100.
 
 Enter your guess: 50
 Too high!
@@ -22,6 +22,7 @@ Too low!
 
 Enter your guess: 32
 Correct! You guessed the number in 3 attempts!
+```
 
 ## Author
 Lewis Fergus-Darby
